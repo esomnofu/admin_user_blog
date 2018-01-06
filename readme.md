@@ -1,5 +1,11 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-<p align="center"><img src="https://www.codingmart.com/uploads/post/image/587315bb8ca7856ad9bbd2f4/vuejs-logo.jpg"></p>
+<div>
+
+<p align="center">
+<img class="pull-left" src="https://laravel.com/assets/img/components/logo-laravel.svg">
+<img class="pull-right" src="https://www.codingmart.com/uploads/post/image/587315bb8ca7856ad9bbd2f4/vuejs-logo.jpg" style="width:200px" height="100px">
+</p>
+
+</div>
 
 ## About Blog
 
